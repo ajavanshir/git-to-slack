@@ -1,0 +1,9 @@
+This project was initiated at the AWS Partner SA Detroit Team meeting 2017.
+
+A hackaton was organized in order to create a quick prototype for the aws-quickstart team.
+The goal was to connect to a GitHub org using GitHub APIs, find all repositories with at least one open Pull Request,
+and post the information on Slack using the Slack API.
+
+A simply Python program (git_to_slack.py) provides theses functionalities.
+
+
