@@ -6,4 +6,4 @@ and post the information on Slack using the Slack API.
 
 A simply Python program (git_to_slack.py) provides theses functionalities.
 
-
+push_git_to_slack.py
